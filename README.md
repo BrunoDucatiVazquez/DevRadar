@@ -10,4 +10,4 @@ O DevRadar é um projeto que visa conectar desenvolvedores com clientes por meio
 - React Native
 - Expo
 
-## Por: [Diego Fernandes](https://github.com/diego3g)
+## Por: [Bruno Ducati Vazquez]
