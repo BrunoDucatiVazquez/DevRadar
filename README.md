@@ -11,7 +11,7 @@
 
 
 
-## Obejetivo
+## Objetivo
 
 O objetivo do desenvolvimento foi criar um software que abrangesse uma aplicação onde os conhecimentos adquiridos com a linguagem javascript fosse implementada na camada web, no app mobile e no backend, com isso tive o primeiro contato com a linguagem e os demais frameworks, então o projeto começou desde o zero até o mais complexo trecho onde há atualização em tempo real dos usuários através das tecnologias propostas, fazendo assim  uma grande melhora na minha prática de programação e ainda ter um ganho didático e profissional com essa plataforma, com isso tive um ganho elevado de conhecimento e pretendo me aprofundar mais nessa stack.  
 
